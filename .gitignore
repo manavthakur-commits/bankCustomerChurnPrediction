@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# Keep these files (they are required for deployment)
+# !best_model.pkl
+# !scaler.pkl
+# !feature_names.pkl
+# !model_metadata.json
+# !feature_importance.csv
