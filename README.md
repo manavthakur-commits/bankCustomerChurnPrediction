@@ -1,8 +1,8 @@
 # 🏦 Bank Customer Churn Prediction & Risk Scoring System
 
 > End-to-End Machine Learning System for Predicting Customer Churn and Enabling Proactive Customer Retention.
-
-
+>
+> 🚀 **[Launch Live Dashboard →](https://bankcustomerchurnprediction-xbshrcsqozwogbwslgkgsa.streamlit.app/)**
 
 
 ---
@@ -192,6 +192,9 @@ python 01_churn_ml_pipeline.py
 streamlit run 02_streamlit_dashboard.py
 ```
 
+### Deployed App
+
+Access the live application here: [Bank Customer Churn Prediction Dashboard](https://bankcustomerchurnprediction-xbshrcsqozwogbwslgkgsa.streamlit.app/)
 ---
 
 ## 💡 Skills Demonstrated
